@@ -1,4 +1,3 @@
-'use strict';
 
 // thiskeyword.js
 // JavaScript training module: understanding how `this` works
